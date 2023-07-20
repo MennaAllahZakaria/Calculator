@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ER7MLS0ATbuncA0/avO8tgxV5Cq4k3XuuP2SjGsnDJyzMZ2v/+gBAtNx4t7RSuv9BH9sS3V31ay6sh0L/PF6iQ==",
+  "success": true,
+  "projectFilePath": "D:\\backend_projects\\first\\calculator\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tech trick\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\tech trick\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\tech trick\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
